@@ -1,3 +1,5 @@
 # Ressources Lego mindstorm
 - Documentation
-- Programmes __fonctionnels__
+- Programmes
+    -  operationnels
+    -  candidats
