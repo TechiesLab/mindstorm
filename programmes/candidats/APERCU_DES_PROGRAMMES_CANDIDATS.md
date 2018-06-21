@@ -4,5 +4,5 @@ Les programmes présents dans ce répertoire sont des candidats opérationnels e
 ## Classement alphabétique par nom de fichier
 - _Robert_, [Pilotage\_boutons.ev3](https://github.com/TechiesLab/mindstorm/blob/master/programmes/candidats/Pilotage_boutons.ev3)&nbsp;: Pilotage par boutons.
     - Brique&nbsp;: Ok. On peut modifier les paramètres de déplacement, si on le souhaite.
-    - Télécommande&nbsp;: Problème de connexion de la télécommande à résoudre. 
+    - Télécommande&nbsp;: Problème de connexion de la télécommande à résoudre. _NB: Voir ch. 2 p. 22-23 et ch. 6 p. 92 du Discovery book._
 
